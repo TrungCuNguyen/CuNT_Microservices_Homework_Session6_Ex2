@@ -1,3 +1,4 @@
 rootProject.name = 'ex_ss6_micro'
 
 include 'medical-discovery-server'
+include 'patient-service'
